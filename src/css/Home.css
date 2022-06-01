@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    flex:0.95;
+}
+
+.home__body{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.quick__view{
+    display: flex;
+    flex-direction: row;
+}

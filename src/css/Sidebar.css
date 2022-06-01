@@ -1,0 +1,18 @@
+.sidebar {
+    display: flex;
+    width:100vw;
+    height: 100vh;
+    flex-direction: column;
+    flex:0.05;
+    place-items: center;
+}
+
+.sidebar__options {
+    margin-top: 50px;
+}
+
+.sidebar__options > a > .MuiSvgIcon-root{
+    font-size: 25px;
+    color: #FFF;
+    cursor: pointer;
+}
